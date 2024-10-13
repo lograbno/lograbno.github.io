@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lograbno.github.io/sitemap.html.gz
+Sitemap: https://lograbno.github.io/app/sitemap.html.gz
+Sitemap: https://lograbno.github.io/assets/sitemap.html.gz
+Sitemap: https://lograbno.github.io/css/sitemap.html.gz
+Sitemap: https://lograbno.github.io/includes/sitemap.html.gz
+Sitemap: https://lograbno.github.io/item/sitemap.html.gz
+Sitemap: https://lograbno.github.io/src/sitemap.html.gz
